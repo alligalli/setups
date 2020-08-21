@@ -47,7 +47,7 @@ To connect via ssh using an alias instead of the usual verbose syntax alias for 
 Host server-alias-name
     Hostname IP-ADDRESS
     User USERNAME
-    IdentityFile ~/.ssh/KEYNAME.pub
+    IdentityFile ~/.ssh/KEYNAME
     Port 22
 ```
 
